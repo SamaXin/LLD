@@ -155,11 +155,6 @@ int main(){
         );
 
     available->operation("");
-    // Lib* b = new searchBook("Harry Potter");
-    // Lib* b3=new createBook("Black Warrent");
-    // b3->operation("Black Warrent");
-    // Lib* check= new availableBook();
-    // check->operation("");
     
 
 
