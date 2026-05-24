@@ -1,0 +1,25 @@
+----------Library Managment System------------
+
+Here 
+1. Lib front End call back end for our req functionality
+- return books
+- search books
+- showing available books
+- buy books
+- add new book came at store
+
+
+returning of object directly from Factory class not making manually
+Class Factory{
+public:
+    static Lib* returnOp(name,quan,typeOp){
+        if(...)returning respected object directly
+    }
+};
+
+
+inside int main 
+
+fetching this data is simple
+Lib* b=Factory::returnOp(parameters)
+
